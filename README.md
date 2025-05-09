@@ -8,17 +8,16 @@
 ## 🎯 Highlights & Features
 
 - **Interactive Dashboards**  
-  Track key performance indicators like revenue, profit, and operational efficiency through visually engaging dashboards.
+  Visualize key metrics such as revenue, profit, and performance trends with dynamic, user-friendly dashboards.
 
 - **Advanced Data Analytics**  
-  Leverage both SQL and DAX for comprehensive data modeling, transformation, and in-depth metric calculations.
+  Leveraged DAX to perform robust analytical computations and derive meaningful business insights.
 
 - **Custom Metrics & KPIs**  
-  Implement tailored DAX measures to reflect specific business goals and performance targets.
+  Designed precise business metrics using DAX to support informed, data-driven decisions.
 
-- **Responsive Design**  
-  Dashboards adapt seamlessly across devices, ensuring consistent user experience for all stakeholders.
-
+- **Optimized User Experience**  
+  Dashboards are built with responsive layouts and intuitive navigation for consistent performance across devices.
 
 ---
 
@@ -27,11 +26,11 @@
 - **Power BI**  
   Used for creating dynamic visualizations and interactive reports.
 
-- **SQL**  
-  Employed for advanced data extraction, transformation, and preparation.
+- **SQL (MySQL)**  
+  Utilized to pull raw data directly from the MySQL database for further processing.
 
 - **DAX (Data Analysis Expressions)**  
-  Utilized to build custom measures and perform complex calculations.
+  Used to build custom measures and perform complex calculations within Power BI.
 
 - **Excel**  
   Applied for preliminary data cleaning, structuring, and quick validations.
