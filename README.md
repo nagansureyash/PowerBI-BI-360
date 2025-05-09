@@ -75,7 +75,7 @@
 - Evaluate **Net Sales vs. Gross Margin%** across product segments using a bubble chart to identify top-performing segments.  
 - Analyze **Net Profit % change** across segments to uncover areas needing cost optimization or growth strategy shifts.  
 - Visualize **Gross Margin vs. Operational Expense** for a clear view of profitability breakdown. 
-![Marketing Dashboard](https://github.com/nagansureyash/PowerBI-BI-360/blob/main/Marketing%20View.png))
+![Marketing Dashboard](https://github.com/nagansureyash/PowerBI-BI-360/blob/main/Marketing%20View.png)
 
 ---
 
