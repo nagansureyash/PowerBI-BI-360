@@ -98,3 +98,13 @@
 ## 🔍 Live Interactive Dashboard  
 Explore the live version of the dashboard here: [**View Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYjMyYjg3MmItMGMwMC00YWIzLTkwODItOTVhNDI0OWVlNTBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+---
+
+## 📌 How to Use
+
+1. Download the Power BI file ([.pbix](https://drive.google.com/drive/folders/1ViPQTimYB0vYYpCvSY3zV_1FvdOxvu3a?usp=drive_link)) and datasets from Google Drive.
+2. Open the `.pbix` file using Power BI Desktop.
+3. Explore various interactive dashboards and insights.
+
+
+
