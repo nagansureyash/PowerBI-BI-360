@@ -5,34 +5,52 @@
 
 ---
 
-## 🎯 Highlights & Features  
-- **Interactive Dashboards**: Monitor key performance indicators like revenue, profit, and efficiency with visually rich dashboards.  
-- **Advanced Data Analytics**: Leverage **SQL** for powerful data extraction, transformation, and summarization.  
-- **Smart Filtering**: Drill down insights by time, region, category, and more with seamless slicers and filters.  
-- **Forecasting Capabilities**: Integrates predictive models to project trends and support proactive decisions.
+## 🎯 Highlights & Features
+
+- **Interactive Dashboards**  
+  Track key performance indicators like revenue, profit, and operational efficiency through visually engaging dashboards.
+
+- **Advanced Data Analytics**  
+  Leverage both SQL and DAX for comprehensive data modeling, transformation, and in-depth metric calculations.
+
+- **Custom Metrics & KPIs**  
+  Implement tailored DAX measures to reflect specific business goals and performance targets.
+
+- **Responsive Design**  
+  Dashboards adapt seamlessly across devices, ensuring consistent user experience for all stakeholders.
+
 
 ---
 
-## 🧰 Tools & Technologies  
-- **Power BI** – for visualization and report building.
-- **SQL** – for robust data preparation and manipulation.  
-- **DAX (Data Analysis Expressions)** – for complex metric calculations.  
-- **Excel** – for initial data cleaning and structure.
+## 🧰 Tools & Technologies
+
+- **Power BI**  
+  Used for creating dynamic visualizations and interactive reports.
+
+- **SQL**  
+  Employed for advanced data extraction, transformation, and preparation.
+
+- **DAX (Data Analysis Expressions)**  
+  Utilized to build custom measures and perform complex calculations.
+
+- **Excel**  
+  Applied for preliminary data cleaning, structuring, and quick validations.
 
 ---
 
-## 📂 Data Sources  
-- **Sales & Finance** – Historical sales, revenue, and cost breakdowns.
-- **Customer Insights** – Demographic segmentation and behavioral patterns.  
-- **Operational Metrics** – Workflow, process efficiency, and KPIs.
+## 🚀 Implementation Workflow
 
----
+1. **Data Preparation**  
+   - Imported raw datasets and performed data cleaning using SQL and Excel.
 
-## 🚀 Implementation Workflow  
-1. **Data Preparation** – Imported and cleaned raw datasets using SQL & Excel.  
-2. **Model Building** – Designed data relationships and schema in Power BI.  
-3. **Visual Development** – Built interactive, insight-rich dashboards.  
-4. **Performance Tuning** – Optimized with DAX formulas and calculated columns.
+2. **Data Modeling**  
+   - Established data relationships and developed a robust schema within Power BI.
+
+3. **Dashboard Development**  
+   - Designed and built interactive dashboards with meaningful visual insights.
+
+4. **Optimization & Performance Tuning**  
+   - Enhanced performance using efficient DAX formulas and calculated columns.
 
 ---
 
